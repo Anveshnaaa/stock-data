@@ -46,9 +46,9 @@ stock-data-app/
 ## 📸 Screenshots
 Screenshots of the Streamlit dashboard are stored in the `screenshots/` folder.
 
-![Screenshot 1](screenshots/Screenshot 2025-11-16 at 6.39.20 AM.png)
+![Screenshot 1](screenshots/S1.png)
 
-![Screenshot 2](screenshots/Screenshot 2025-11-16 at 6.39.20 AM.png)
+![Screenshot 2](screenshots/S2.png)
 
-![Screenshot 3](screenshots/Screenshot 2025-11-16 at 6.40.06 AM.png)
+![Screenshot 3](screenshots/S3.png)
 
